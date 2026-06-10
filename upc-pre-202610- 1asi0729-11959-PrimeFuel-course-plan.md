@@ -100,36 +100,25 @@
 - **Descripción:** Aprende errores comunes de principiantes y cómo seguir creciendo como programador.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Leer mensajes de error, escribir código ordenado y practicar constantemente.
-- **Comparte tu trabajo:** Envía tu creación
+- **Comparte tu trabajo:** [Envía tu creación](https://forms.gle/tu-formulario)
 
 ---
 
-## 🔗 Actividades Prácticas
-
-| # | Actividad | Editor | Nota |
-|---|-----------|---------|------|
-| 1 | Hola Mundo | Replit | Sin registro |
-| 2 | Variables y tipos de datos | Replit | Sin registro |
-| 3 | Condicionales y bucles | JDoodle | Inicio inmediato |
-| 4 | Métodos y Scanner | OnlineGDB | Sin registro |
-| 5 | Clases y objetos | Replit | Sin registro |
-| 6 | Encapsulación | OnlineGDB | Sin registro |
-| 7 | Registro de estudiantes | Replit | Guarda y comparte |
-
----
 
 ## 📚 Recursos Adicionales
 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/PrimeFuel/java-fundamentals-course-PrimeFuel)
 - **Todas las actividades prácticas**:
 
-| Número de lección | Actividad | Empezar a programar |
-|----------|----------|-------------|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
+| Número de lección | Actividad | Empezar a programar                                            |
+|---|-----------|----------------------------------------------------------------|
+| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1)                     |
+| 2 | Variables | [Replit](https://replit.com/@your-lesson2)                     |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
+| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)                |
+| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5)                     |
+| 6 | Encapsulación | [OnlineGDB](https://onlinegdb.com/your-lesson6)                |
+| 7 | Registro de estudiantes | [Replit](https://replit.com/@your-lesson7)                     |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
 
