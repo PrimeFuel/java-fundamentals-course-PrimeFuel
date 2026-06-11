@@ -190,10 +190,10 @@ public class Main {
 Añade una tercera variable:
 
 ```java
-String películaFavorita;
+String favorito;
 ```
 
-Guarda tu película favorita y muéstralo en pantalla.
+Guarda tu videojuego o película favorita y muéstralo en pantalla.
 
 ---
 
