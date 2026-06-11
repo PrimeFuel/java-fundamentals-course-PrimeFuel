@@ -12,7 +12,7 @@
 >
 > **¿Cómo guarda información un programa?**
 >
-> Porque si una aplicación recuerda tu nombre, tu puntuación en un videojuego o tu edad, significa que debe existir alguna forma de almacenar esos datos."
+> Porque si una aplicación recuerda tu nombre, tu puntuación en un videojuego o tu edad ingresada al guardarla en una red social, significa que debe existir alguna forma de almacenar esos datos."
 
 ---
 
@@ -53,6 +53,8 @@ A veces texto.
 
 A veces respuestas de sí o no.
 
+Incluso estructuras que contienen otros datos, como los arreglos. Osease, cajas que contienten cajas
+
 Por eso Java utiliza diferentes tipos de datos."
 
 ---
@@ -68,7 +70,7 @@ int puntos = 150;
 
 > **Nota visual:** Mostrar un marcador de videojuego.
 
-"Las vidas y los puntos normalmente son números enteros."
+"Las vidas y los puntos normalmente son números enteros. Así como tu edad cuando cuentas en años."
 
 ---
 
@@ -83,6 +85,14 @@ double temperatura = 24.5;
 
 "Esto es útil para medidas más precisas."
 
+> **Nota visual:** Mostrar cuanto puede soportar cada tipo de declaración.
+
+**Ojo**:
+
+"Existen más formas de guardar números decimales, como el `float` o `BigDecimal` que ya no suele ser función nativa de java.
+
+Pero cada una puede soportar distintas cantidades de dígitos antes de perder precisión. `float` puede soportar aproximadamente 7 y `double` de 15 a 17."
+
 ---
 
 ## 🔹 Texto (String)
@@ -96,13 +106,17 @@ String mascota = "Luna";
 
 > **Nota visual:** Resaltar las comillas.
 
-"Las comillas son importantes porque indican que estamos trabajando con texto."
+"Las comillas son importantes porque indican que estamos trabajando con texto.
+
+De olvidarlas, le estaríamos diciendo al programa que Diego es una variable cuando la variable es nombre."
 
 ---
 
 ## 🔹 Verdadero o falso (boolean)
 
-"Algunas veces solo necesitamos dos posibles respuestas."
+"Algunas veces solo necesitamos dos posibles respuestas. Como cuando surgen preguntas que solo requieren sí o no
+
+En este caso, verdadero o falso."
 
 ```java
 boolean esEstudiante = true;
@@ -118,7 +132,7 @@ boolean tieneMascota = false;
 
 ## 💻 Mostrando variables en pantalla
 
-"Las variables son más útiles cuando podemos utilizarlas."
+"Las variables son más útiles cuando podemos utilizarlas incluso más de una vez."
 
 ```java
 public class Main {
@@ -140,14 +154,14 @@ public class Main {
 
 ## 🧠 ¿Por qué son importantes?
 
-"Prácticamente todos los programas utilizan variables.
+"Prácticamente, todos los programas utilizan variables.
 
 Por ejemplo:
 
 * Instagram almacena nombres de usuario.
-* Minecraft almacena inventarios.
-* Spotify almacena canciones y listas de reproducción.
-* Los videojuegos almacenan puntuaciones y niveles."
+* Amazon lista productos en nombres en texto y precios en double o float.
+* Spotify almacena canciones y listas de reproducción con títulos en texto y duración en números.
+* Los videojuegos almacenan puntuaciones, niveles, nicknames, estados de activado o desactivado, etc."
 
 "Sin variables, las aplicaciones no podrían recordar nada."
 
@@ -176,10 +190,10 @@ public class Main {
 Añade una tercera variable:
 
 ```java
-String videojuegoFavorito;
+String películaFavorita;
 ```
 
-Guarda tu videojuego favorito y muéstralo en pantalla.
+Guarda tu película favorita y muéstralo en pantalla.
 
 ---
 
