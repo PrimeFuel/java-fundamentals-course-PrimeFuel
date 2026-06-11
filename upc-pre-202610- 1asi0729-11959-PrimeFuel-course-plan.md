@@ -5,7 +5,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![JDoodle](https://img.shields.io/badge/JDoodle-Online%20Compiler-orange?style=for-the-badge)
+![OnlineGDB](https://img.shields.io/badge/OnlineGDB-Debugger%20%26%20Compiler-green?style=for-the-badge)
 
 **Curso introductorio de programación con Java para estudiantes de secundaria**
 
@@ -37,7 +38,7 @@
 - **Descripción:** Descubre qué es programar y por qué Java es uno de los lenguajes más utilizados en el mundo.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Los programas son instrucciones para computadoras; Java se utiliza en aplicaciones, videojuegos y sistemas empresariales.
-- **Empieza a programar:** Abrir Replit - Hola Mundo
+- **Empieza a programar:** Abrir JDoodle - Hola Mundo
 
 ---
 
@@ -50,7 +51,7 @@
 
 ---
 
-### Lección 3: Operadores y Estructuras de Control (~10 minutos)
+### Lección 3: Operadores y Estructuras de Control (~8 minutos)
 
 - **Descripción:** Realiza cálculos, toma decisiones y automatiza tareas con condicionales y bucles.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
@@ -59,7 +60,7 @@
 
 ---
 
-### Lección 4: Métodos y Entrada y Salida de Datos/Introducción a la Programación Orientada a Objetos POO (~12 minutos)
+### Lección 4: Métodos y Entrada y Salida de Datos/Introducción a la Programación Orientada a Objetos POO (~10 minutos)
 
 - **Descripción:** Organiza mejor tu código creando métodos y obteniendo información del usuario e introduce clases/objetos.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
@@ -68,11 +69,11 @@
 
 ---
 
-### Lección 5: Fundamentos de POO y programas sencillos (~15 minutos)
+### Lección 5: Fundamentos de POO y programas sencillos (~10 minutos)
 
 - **Descripción:** Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
-- **Conclusiones clave:** Diferencia entre clases y objetos; creación de atributos y métodos. Encapsulación con getters; Simula "mascotas" a través de clases con atributos y métodos.
+- **Conclusiones clave:** Diferencia entre clases y objetos; creación de atributos y métodos. Simula "mascotas" a través de clases con atributos y métodos.
 - **Práctica:** Clic para programar 👈 ¡Empieza a crear objetos!
 
 ---
@@ -86,16 +87,16 @@
 
 ---
 
-### Lección 7: Arrays y Proyecto Final (~12 minutos)
+### Lección 7: Arrays y Proyecto Final (~10 minutos)
 
-- **Descripción:** Utiliza arreglos junto con objetos para desarrollar una aplicación sencilla de registro de estudiantes.
+- **Descripción:** Utiliza arreglos junto con objetos. Construye una aplicación para registrar personajes de tu agrado, mascotas o estudiantes utilizando objetos y arrays.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Manejo básico de arrays, objetos y lógica de programación.
 - **Proyecto final:** Crea tu aplicación Java 👈 ¡Guarda y comparte!
 
 ---
 
-### Lección 8: Buenas Prácticas y Próximos Pasos (~7 minutos)
+### Lección 8: Buenas Prácticas y Próximos Pasos (~5 minutos)
 
 - **Descripción:** Aprende errores comunes de principiantes y cómo seguir creciendo como programador.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
@@ -110,15 +111,17 @@
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/PrimeFuel/java-fundamentals-course-PrimeFuel)
 - **Todas las actividades prácticas**:
 
-| Número de lección | Actividad | Empezar a programar                                            |
-|---|-----------|----------------------------------------------------------------|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1)                     |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2)                     |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)                |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5)                     |
-| 6 | Encapsulación | [OnlineGDB](https://onlinegdb.com/your-lesson6)                |
-| 7 | Registro de estudiantes | [Replit](https://replit.com/@your-lesson7)                     |
+| Número de lección | Actividad | Empezar a programar                                           |
+|---|-----------|---------------------------------------------------------------|
+| 1 | Hola mundo | [JDoodle](https://jdoodle.com/)                    |
+| 2 | Variables | [JDoodle](https://jdoodle.com/)                   |
+| 3 | Bucles | [JDoodle](https://jdoodle.com/) |
+| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)               |
+| 5 | Programa OOP |[OnlineGDB](https://onlinegdb.com)                |
+| 6 | Encapsulación | [OnlineGDB](https://onlinegdb.com)           |
+| 7 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com)                   |
+
+- **Editores online utilizados:** [JDoodle](https://jdoodle.com/) y [OnlineGDB](https://onlinegdb.com).
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
 
