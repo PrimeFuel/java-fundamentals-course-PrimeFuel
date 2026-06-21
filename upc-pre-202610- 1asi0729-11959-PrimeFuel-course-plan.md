@@ -38,7 +38,7 @@
 - **Descripción:** Descubre qué es programar y por qué Java es uno de los lenguajes más utilizados en el mundo.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** Los programas son instrucciones para computadoras; Java se utiliza en aplicaciones, videojuegos y sistemas empresariales.
-- **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/ia/1UfU) - Hola Mundo
+- **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) - Hola Mundo
 
 ---
 
@@ -56,7 +56,7 @@
 - **Descripción:** Realiza cálculos, toma decisiones y automatiza tareas con condicionales y bucles.
 - **Enlace:** [Ver la lección](https://youtu.be/gysaEj5Eg8A)
 - **Conclusiones clave:** Uso de operadores, `if`, `else`, `for` y `while`. Ejemplo: if (age > 12) {}; for (int i=0; i<5; i++) {}.
-- **Práctica:** [Clic para programar](https://www.jdoodle.com/ia/1UfT) 👈 ¡Inicio inmediato!
+- **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡Inicio inmediato!
 
 ---
 
@@ -113,9 +113,9 @@
 
 | Número de lección | Actividad | Empezar a programar                                           |
 |---|-----------|---------------------------------------------------------------|
-| 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/ia/1UfU)                    |
+| 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler)                    |
 | 2 | Variables | [JDoodle](https://www.jdoodle.com/online-java-compiler)                   |
-| 3 | Bucles | [JDoodle](https://www.jdoodle.com/ia/1UfT) |
+| 3 | Bucles | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
 | 4 | Métodos y clases | [OnlineGDB](https://www.onlinegdb.com)               |
 | 5 | Programa OOP |[OnlineGDB](https://onlinegdb.com)                |
 | 6 | Encapsulación | [OnlineGDB](https://onlinegdb.com)           |
