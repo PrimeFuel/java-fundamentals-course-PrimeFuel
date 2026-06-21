@@ -63,7 +63,7 @@
 ### Lección 4: Métodos y Entrada y Salida de Datos/Introducción a la Programación Orientada a Objetos POO (~10 minutos)
 
 - **Descripción:** Organiza mejor tu código creando métodos y obteniendo información del usuario e introduce clases/objetos.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/07ACoq6xuSQ)
 - **Conclusiones clave:** Métodos reutilizables y lectura de datos mediante `Scanner`.
 - **Práctica:** [Clic para programar](https://www.onlinegdb.com) 👈 ¡Sin registro!
 
