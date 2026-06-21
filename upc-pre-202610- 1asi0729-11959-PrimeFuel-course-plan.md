@@ -36,7 +36,7 @@
 ### Lección 1: ¿Qué es Java y la Programación? (~5 minutos)
 
 - **Descripción:** Descubre qué es programar y por qué Java es uno de los lenguajes más utilizados en el mundo.
-- **Enlace:** [Ver la lección](https://youtu.be/gysaEj5Eg8A)
+- **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** Los programas son instrucciones para computadoras; Java se utiliza en aplicaciones, videojuegos y sistemas empresariales.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) - Hola Mundo
 
@@ -54,7 +54,7 @@
 ### Lección 3: Operadores y Estructuras de Control (~8 minutos)
 
 - **Descripción:** Realiza cálculos, toma decisiones y automatiza tareas con condicionales y bucles.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/gysaEj5Eg8A)
 - **Conclusiones clave:** Uso de operadores, `if`, `else`, `for` y `while`. Ejemplo: if (age > 12) {}; for (int i=0; i<5; i++) {}.
 - **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡Inicio inmediato!
 
