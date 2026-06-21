@@ -72,7 +72,7 @@
 ### Lección 5: Fundamentos de POO y programas sencillos (~10 minutos)
 
 - **Descripción:** Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/JkG7d7hPMog)
 - **Conclusiones clave:** Diferencia entre clases y objetos; creación de atributos y métodos. Simula "mascotas" a través de clases con atributos y métodos.
 - **Práctica:** [Clic para programar](https://www.onlinegdb.com) 👈 ¡Empieza a crear objetos!
 
@@ -99,7 +99,7 @@
 ### Lección 8: Buenas Prácticas y Próximos Pasos (~5 minutos)
 
 - **Descripción:** Aprende errores comunes de principiantes y cómo seguir creciendo como programador.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/gG1TU6_T4Qk)
 - **Conclusiones clave:** Leer mensajes de error, escribir código ordenado y practicar constantemente.
 - **Comparte tu trabajo:** [Envía tu creación](https://forms.gle/tu-formulario)
 
