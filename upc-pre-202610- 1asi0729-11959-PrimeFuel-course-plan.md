@@ -36,9 +36,9 @@
 ### Lección 1: ¿Qué es Java y la Programación? (~5 minutos)
 
 - **Descripción:** Descubre qué es programar y por qué Java es uno de los lenguajes más utilizados en el mundo.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/gysaEj5Eg8A)
 - **Conclusiones clave:** Los programas son instrucciones para computadoras; Java se utiliza en aplicaciones, videojuegos y sistemas empresariales.
-- **Empieza a programar:** Abrir JDoodle - Hola Mundo
+- **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) - Hola Mundo
 
 ---
 
@@ -47,7 +47,7 @@
 - **Descripción:** Aprende a almacenar información utilizando variables y tipos de datos básicos.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Uso de `int`, `double`, `boolean` y `String`.
-- **Práctica:** Clic para programar 👈 ¡Sin registro!
+- **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡Sin registro!
 
 ---
 
@@ -56,7 +56,7 @@
 - **Descripción:** Realiza cálculos, toma decisiones y automatiza tareas con condicionales y bucles.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Uso de operadores, `if`, `else`, `for` y `while`. Ejemplo: if (age > 12) {}; for (int i=0; i<5; i++) {}.
-- **Práctica:** Clic para programar 👈 ¡Inicio inmediato!
+- **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡Inicio inmediato!
 
 ---
 
@@ -65,7 +65,7 @@
 - **Descripción:** Organiza mejor tu código creando métodos y obteniendo información del usuario e introduce clases/objetos.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Métodos reutilizables y lectura de datos mediante `Scanner`.
-- **Práctica:** Clic para programar 👈 ¡Sin registro!
+- **Práctica:** [Clic para programar](https://www.onlinegdb.com) 👈 ¡Sin registro!
 
 ---
 
@@ -74,7 +74,7 @@
 - **Descripción:** Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Diferencia entre clases y objetos; creación de atributos y métodos. Simula "mascotas" a través de clases con atributos y métodos.
-- **Práctica:** Clic para programar 👈 ¡Empieza a crear objetos!
+- **Práctica:** [Clic para programar](https://www.onlinegdb.com) 👈 ¡Empieza a crear objetos!
 
 ---
 
@@ -83,7 +83,7 @@
 - **Descripción:** Mejora tus clases utilizando constructores, getters y setters.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Encapsulación y protección de datos dentro de los objetos.
-- **Práctica:** Clic para programar 👈 ¡No necesitas instalar nada!
+- **Práctica:** [Clic para programar](https://www.onlinegdb.com) 👈 ¡No necesitas instalar nada!
 
 ---
 
@@ -92,7 +92,7 @@
 - **Descripción:** Utiliza arreglos junto con objetos. Construye una aplicación para registrar personajes de tu agrado, mascotas o estudiantes utilizando objetos y arrays.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
 - **Conclusiones clave:** Manejo básico de arrays, objetos y lógica de programación.
-- **Proyecto final:** Crea tu aplicación Java 👈 ¡Guarda y comparte!
+- **Proyecto final:** [Crea tu aplicación Java](https://www.onlinegdb.com) 👈 ¡Guarda y comparte!
 
 ---
 
@@ -113,15 +113,15 @@
 
 | Número de lección | Actividad | Empezar a programar                                           |
 |---|-----------|---------------------------------------------------------------|
-| 1 | Hola mundo | [JDoodle](https://jdoodle.com/)                    |
-| 2 | Variables | [JDoodle](https://jdoodle.com/)                   |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)               |
+| 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler)                    |
+| 2 | Variables | [JDoodle](https://www.jdoodle.com/online-java-compiler)                   |
+| 3 | Bucles | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
+| 4 | Métodos y clases | [OnlineGDB](https://www.onlinegdb.com)               |
 | 5 | Programa OOP |[OnlineGDB](https://onlinegdb.com)                |
 | 6 | Encapsulación | [OnlineGDB](https://onlinegdb.com)           |
 | 7 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com)                   |
 
-- **Editores online utilizados:** [JDoodle](https://jdoodle.com/) y [OnlineGDB](https://onlinegdb.com).
+- **Editores online utilizados:** [JDoodle](https://www.jdoodle.com/online-java-compiler) y [OnlineGDB](https://onlinegdb.com).
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
 
