@@ -81,7 +81,7 @@
 ### Lección 6: Constructores y Encapsulación (~12 minutos)
 
 - **Descripción:** Mejora tus clases utilizando constructores, getters y setters.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/HtN30hOovWk)
 - **Conclusiones clave:** Encapsulación y protección de datos dentro de los objetos.
 - **Práctica:** [Clic para programar](https://www.onlinegdb.com) 👈 ¡No necesitas instalar nada!
 
@@ -135,11 +135,11 @@
 
 **1ASI0729 Desarrollo de Aplicaciones Open Source · NRC 11959**
 
-| Campo | Valor                  |
-|---------|------------------------|
-| 🏷️ Equipo | PrimeFuel              |
+| Campo | Valor                    |
+|---------|--------------------------|
+| 🏷️ Equipo | PrimeFuel                |
 | 👑 Líder | Jose Gustavo Asto Jacome |
-| 📅 Fecha de entrega | 18/06/2026             |
+| 📅 Fecha de entrega | 21/06/2026               |
 
 ## Integrantes
 
