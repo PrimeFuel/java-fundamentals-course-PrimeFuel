@@ -69,7 +69,7 @@
 
 ---
 
-### Lección 5: Fundamentos de POO y programas sencillos (~10 minutos)
+### Lección 5: Fundamentos de POO y programas sencillos (~6 minutos)
 
 - **Descripción:** Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace:** [Ver la lección](https://youtu.be/JkG7d7hPMog)
@@ -78,7 +78,7 @@
 
 ---
 
-### Lección 6: Constructores y Encapsulación (~8 minutos)
+### Lección 6: Constructores y Encapsulación (~12 minutos)
 
 - **Descripción:** Mejora tus clases utilizando constructores, getters y setters.
 - **Enlace:** [Ver la lección](https://www.youtube.com)
