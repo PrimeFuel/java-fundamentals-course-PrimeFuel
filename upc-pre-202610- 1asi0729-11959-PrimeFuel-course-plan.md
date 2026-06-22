@@ -33,7 +33,7 @@
 
 ## 🎬 Secuencia de Lecciones
 
-### Lección 1: ¿Qué es Java y la Programación? (~5 minutos)
+### Lección 1: ¿Qué es Java y la Programación? (~4 minutos)
 
 - **Descripción:** Descubre qué es programar y por qué Java es uno de los lenguajes más utilizados en el mundo.
 - **Enlace:** [Ver la lección](https://youtu.be/0Y53SL8o3Ss)
@@ -87,10 +87,10 @@
 
 ---
 
-### Lección 7: Arrays y Proyecto Final (~10 minutos)
+### Lección 7: Arrays y Proyecto Final (~12 minutos)
 
 - **Descripción:** Utiliza arreglos junto con objetos. Construye una aplicación para registrar personajes de tu agrado, mascotas o estudiantes utilizando objetos y arrays.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/acnBXoeVD0o)
 - **Conclusiones clave:** Manejo básico de arrays, objetos y lógica de programación.
 - **Proyecto final:** [Crea tu aplicación Java](https://www.onlinegdb.com) 👈 ¡Guarda y comparte!
 
@@ -101,7 +101,7 @@
 - **Descripción:** Aprende errores comunes de principiantes y cómo seguir creciendo como programador.
 - **Enlace:** [Ver la lección](https://youtu.be/gG1TU6_T4Qk)
 - **Conclusiones clave:** Leer mensajes de error, escribir código ordenado y practicar constantemente.
-- **Comparte tu trabajo:** [Envía tu creación](https://forms.gle/tu-formulario)
+- **Comparte tu trabajo:** [Envía tu creación](https://forms.gle/rtZZuBHE3gQKHrFU8)
 
 ---
 
