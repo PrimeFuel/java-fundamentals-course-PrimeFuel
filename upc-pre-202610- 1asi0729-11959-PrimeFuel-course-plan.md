@@ -36,7 +36,7 @@
 ### Lección 1: ¿Qué es Java y la Programación? (~5 minutos)
 
 - **Descripción:** Descubre qué es programar y por qué Java es uno de los lenguajes más utilizados en el mundo.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/0Y53SL8o3Ss)
 - **Conclusiones clave:** Los programas son instrucciones para computadoras; Java se utiliza en aplicaciones, videojuegos y sistemas empresariales.
 - **Empieza a programar:** [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler) - Hola Mundo
 
@@ -45,7 +45,7 @@
 ### Lección 2: Variables y Tipos de Datos (~8 minutos)
 
 - **Descripción:** Aprende a almacenar información utilizando variables y tipos de datos básicos.
-- **Enlace:** [Ver la lección](https://www.youtube.com)
+- **Enlace:** [Ver la lección](https://youtu.be/gNPLcwb7gPU)
 - **Conclusiones clave:** Uso de `int`, `double`, `boolean` y `String`.
 - **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡Sin registro!
 
