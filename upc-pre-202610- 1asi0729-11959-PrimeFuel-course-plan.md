@@ -123,7 +123,7 @@
 
 - **Editores online utilizados:** [JDoodle](https://www.jdoodle.com/online-java-compiler) y [OnlineGDB](https://onlinegdb.com).
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [Prueba de conocimientos](https://forms.gle/AZKRZg2fFtVP6JEr9)
 
 ---
 
